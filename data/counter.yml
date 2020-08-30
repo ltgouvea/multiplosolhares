@@ -1,14 +1,14 @@
 enable : true
-heading : "THE PROOF IS IN THE PUDDING!"
+heading : "PESSOAS ENTREVISTADAS"
 counter_item: 
-  - title: "Happy Clients"
+  - title: "Pacientes Gerais"
     number: "250"
 
-  - title: "Projects Completed"
+  - title: "Pacientes Covid-19"
     number: "100"
 
-  - title: "Cups of coffee"
+  - title: "Homens"
     number: "350"
 
-  - title: "Telephone Talks"
+  - title: "Mulheres"
     number: "775"

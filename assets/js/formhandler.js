@@ -16,6 +16,7 @@ window.addEventListener("DOMContentLoaded", function() {
   // handle the form submission event
 
   form.addEventListener("submit", function(ev) {
+    console.log('TODO: CODAR ENVIO DO CONTATO');
     ev.preventDefault();
     var data = new FormData(form);
     ajax(form.method, form.action, data, success, error);
