@@ -2,38 +2,38 @@ enable  : true
 title   : "EQUIPE"
 subtitle: "Conheça os colaboradores"
 testimonial_item :
-  - thumb : "images/testimonial/user-thumb-one.jpg"
-    name  : "Zazu"
-    company_position: "CEO, Credito"
+  - thumb : "images/testimonial/ana_canzonieri.jpeg"
+    name  : "Ana"
+    company_position: "Enfermeira/Psicóloga"
     quote : > 
-            "Trust us we looked for a very long time and wasted thousands of dollars testing other teams, freelancers, and outsource companies." 
+            "Enfermeira e psicóloga com mestrado e doutorado em Ciências da Saúde pela UNIFESP. Em andamento o pós Doutorado no Programa de Pós-Doutorado da Escola de Artes, Ciências e Humanidades (EACH-USP), no Grupo de Pesquisa e Aplicações Tecnológicas em Reabilitação.  Desde 2008 atua no desenvolvimento de pesquisas e no atendimento psicológico clínico presencial e online a pacientes com esclerose múltipla." 
+
+  - thumb : "images/testimonial/camila_zucareli.jpeg"
+    name  : "Camila"
+    company_position: "Advogada"
+    quote : > 
+            "Advogada Empresarial Previdenciária e Trabalhista. Pós-Graduada em Direito Empresarial e Direito Previdenciário pela FMU e Escola Paulista de Direito. Atuou em indústria química e grandes escritórios, onde foi palestrante pela CIESP na área previdenciária. Fundadora do escritório NSZ Consórcio Jurídico, passou a prestar consultoria para outras empresas e associações. Atualmente presta assessoria jurídica para aposentadoria e questões relativas à esclerose múltipla e deficiência." 
 
   - thumb : "images/testimonial/user-thumb-two.jpg"
     name  : "Newton"
-    company_position: "CDO, Bulmuci"
+    company_position: "Designer"
     quote : > 
             "Roxo products have allowed us to deliver better support to all our clients. The agility with which we can implement new features and workflows is a key element." 
 
-  - thumb : "images/testimonial/user-thumb-three.jpg"
-    name  : "Ana"
-    company_position: "MD, Udilamo"
+  - thumb : "images/testimonial/daniele_de_souza.jpeg"
+    name  : "Daniele de Souza"
+    company_position: "Psicóloga"
     quote : > 
-            "We’re a really busy restaurant, and roxo gives our customers a easy way to order, pay, and pick up their food so they can beat the line and beat that lunch rush." 
+            "Psicóloga pela Universidade São Judas Tadeu. Após anos trabalhando na área de Engenharia de Telecomunicações, iniciou a graduação em psicologia, a priori atuando com pacientes com esclerose múltipla. Atualmente é Residente Multiprofissional no A.C. Camargo Cancer Center." 
 
-  - thumb : "images/testimonial/user-thumb-four.jpg"
-    name  : "Dockrel Kahn"
-    company_position: "PM, Walmet"
+  - thumb : "images/testimonial/daniele_freire.jpeg"
+    name  : "Daniele Freire"
+    company_position: "Produção Audiovisual"
     quote : > 
-            "Trust us we looked for a very long time and wasted thousands of dollars testing other teams, freelancers, and outsource companies." 
+            "Formada em Comunicação Social com habilitação em Rádio e TV pela UNESP, desde o início de sua formação direcionou os seus estudos para a área de produção audiovisual, e hoje atua no mercado como assistente geral , executiva e financeira. Em sua jornada pelo mundo cinematográfico fez parte da equipe de filmagem da série Onisciente - exibida pela Netflix , Onde está Meu Coração série original Globoplay, longa metragem Vale Night, do diretor Luis Pinheiro, entre outros que compõem o seu caminho profissional." 
 
-  - thumb : "images/testimonial/user-thumb-five.jpg"
-    name  : "Orino Monteno"
-    company_position: "CEO, Axion"
+  - thumb : "images/testimonial/user-thumb-two.jpg"
+    name  : "Produção Audiovisual"
+    company_position: "Designer"
     quote : > 
             "Roxo products have allowed us to deliver better support to all our clients. The agility with which we can implement new features and workflows is a key element." 
-
-  - thumb : "images/testimonial/user-thumb-six.jpg"
-    name  : "Welfo Roy"
-    company_position: "PDO, Komoyo"
-    quote : > 
-            "We’re a really busy restaurant, and roxo gives our customers a easy way to order, pay, and pick up their food so they can beat the line and beat that lunch rush." 
