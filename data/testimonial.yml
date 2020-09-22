@@ -14,11 +14,11 @@ testimonial_item :
     quote : > 
             "Advogada Empresarial Previdenciária e Trabalhista. Pós-Graduada em Direito Empresarial e Direito Previdenciário pela FMU e Escola Paulista de Direito. Atuou em indústria química e grandes escritórios, onde foi palestrante pela CIESP na área previdenciária. Fundadora do escritório NSZ Consórcio Jurídico, passou a prestar consultoria para outras empresas e associações. Atualmente presta assessoria jurídica para aposentadoria e questões relativas à esclerose múltipla e deficiência." 
 
-  - thumb : "images/testimonial/user-thumb-two.jpg"
-    name  : "Newton"
+  - thumb : "images/testimonial/newton_marchioni.jpeg"
+    name  : "Newton Marchioni"
     company_position: "Designer"
     quote : > 
-            "Roxo products have allowed us to deliver better support to all our clients. The agility with which we can implement new features and workflows is a key element." 
+            "Newton Marchioni Designer e fundador da Umideia Design Criativo , atua na criação  e gestão de marcas, projetos de identidade visual, peças promocionais, editoriais, serviços digitais e consultorias empresariais. Formado em Comunicação Visual pelo Centro Paula Souza, é Bacharel em Física pela PUCSP e Pós-Graduado em Análise de Sistemas pela FECAPSP." 
 
   - thumb : "images/testimonial/daniele_de_souza.jpeg"
     name  : "Daniele de Souza"
@@ -32,8 +32,8 @@ testimonial_item :
     quote : > 
             "Formada em Comunicação Social com habilitação em Rádio e TV pela UNESP, desde o início de sua formação direcionou os seus estudos para a área de produção audiovisual, e hoje atua no mercado como assistente geral , executiva e financeira. Em sua jornada pelo mundo cinematográfico fez parte da equipe de filmagem da série Onisciente - exibida pela Netflix , Onde está Meu Coração série original Globoplay, longa metragem Vale Night, do diretor Luis Pinheiro, entre outros que compõem o seu caminho profissional." 
 
-  - thumb : "images/testimonial/user-thumb-two.jpg"
-    name  : "Produção Audiovisual"
-    company_position: "Designer"
+  - thumb : "images/testimonial/bruno_almeida.jpeg"
+    name  : "Bruno"
+    company_position: "Produção Audiovisual"
     quote : > 
-            "Roxo products have allowed us to deliver better support to all our clients. The agility with which we can implement new features and workflows is a key element." 
+            "Comunicador Social pela UNESP de Bauru, atua como Coordenador de Produção e Diretor criativo na Síntese Filmes. Hoje, dedica maior parte de suas produções à criação de filmes documentários que abordam questões sociais e,em especial, na área da saúde." 
