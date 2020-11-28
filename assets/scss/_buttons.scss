@@ -24,7 +24,7 @@
         position: absolute;
         top: 150%;
         left: 0;
-        transform: skewY(30deg);
+        transform: skewY(50deg);
         transform-origin: left center;
         transition: transform .9s cubic-bezier(.19,1,.22,1);
       }
@@ -33,20 +33,14 @@
   &:hover{
     .btn-area{
       span{
-        transform: translateY(-150%) skewY(7deg);
-        &::after{
-          transform: skewY(-7deg);
-        }
+        // transform: scale(1.05, 1.05);
       }
     }
   }
   &:visited{
     .btn-area{
       span{
-        transform: translateY(-150%) skewY(7deg);
-        &::after{
-          transform: skewY(-7deg);
-        }
+        // transform: scale(1.05, 1.05);
       }
     }
   }
@@ -77,5 +71,5 @@
 }
 
 .btn-bump-font{
-  font-size: 1.5em;
+  font-size: 1.4em;
 }

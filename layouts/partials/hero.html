@@ -1,7 +1,8 @@
 {{ with .Site.Params.banner }}
   {{ if .enable }}
   {{ "<!-- Site Hero Start -->" | safeHTML }}
-  <section class="site-hero" style="background-image: url('{{ .background_image }}');">
+  <!-- <section class="site-hero" style="background-image: url('{{ .background_image }}');"> -->
+  <section class="site-hero" style="background-image: linear-gradient(45deg, #8d9dce, #67eaff);">
     <div class="container">
       <div class="row">
         <div class="col-lg-10 mx-auto">
@@ -34,9 +35,9 @@
         </div>
       </div>
     </div>
-    <a href="#counter" class="site-hero-scroll scroll-to">
-      <img src="images/arrow-down.svg" alt="arrow-down">
-    </a>
+    <!-- <a href="#counter" class="site-hero-scroll scroll-to">
+      <img src="images/arrow-down-solid.svg" alt="arrow-down">
+    </a> -->
   </section>
   {{ "<!-- Site Hero End -->" | safeHTML }}
   {{ end }}
