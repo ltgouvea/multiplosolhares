@@ -14,7 +14,6 @@ window.addEventListener("DOMContentLoaded", function() {
   }
 
   form.addEventListener("submit", function(ev) {
-    console.log('TODO: CODAR ENVIO DO CONTATO');
     ev.preventDefault();
     var data = new FormData(form);
     
