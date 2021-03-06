@@ -60,7 +60,7 @@ summarylength = 25
     primary_button        = "Conheça o nosso Projeto"
     primary_button_url    = "about"
     secondary_button      = "Colabore com o Projeto"
-    secondary_button_url  = "contact"
+    secondary_button_url  = "https://apoia.se/projetomultiplosriscos"
 
   [params.artigos]
     enable    = true
