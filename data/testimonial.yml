@@ -9,7 +9,7 @@ testimonial_item :
             "Enfermeira e psicóloga com mestrado e doutorado em Ciências da Saúde pela UNIFESP. Em andamento o pós Doutorado no Programa de Pós-Doutorado da Escola de Artes, Ciências e Humanidades (EACH-USP), no Grupo de Pesquisa e Aplicações Tecnológicas em Reabilitação.  Desde 2008 atua no desenvolvimento de pesquisas e no atendimento psicológico clínico presencial e online a pacientes com esclerose múltipla." 
 
   - thumb : "images/testimonial/camila_zucareli.jpeg"
-    name  : "Camila"
+    name  : "Camila Zucareli"
     company_position: "Advogada"
     quote : > 
             "Advogada Empresarial Previdenciária e Trabalhista. Pós-Graduada em Direito Empresarial e Direito Previdenciário pela FMU e Escola Paulista de Direito. Atuou em indústria química e grandes escritórios, onde foi palestrante pela CIESP na área previdenciária. Fundadora do escritório NSZ Consórcio Jurídico, passou a prestar consultoria para outras empresas e associações. Atualmente presta assessoria jurídica para aposentadoria e questões relativas à esclerose múltipla e deficiência." 
@@ -33,14 +33,14 @@ testimonial_item :
             "Formada em Comunicação Social com habilitação em Rádio e TV pela UNESP, desde o início de sua formação direcionou os seus estudos para a área de produção audiovisual, e hoje atua no mercado como assistente geral , executiva e financeira. Em sua jornada pelo mundo cinematográfico fez parte da equipe de filmagem da série Onisciente - exibida pela Netflix , Onde está Meu Coração série original Globoplay, longa metragem Vale Night, do diretor Luis Pinheiro, entre outros que compõem o seu caminho profissional." 
 
   - thumb : "images/testimonial/bruno_almeida.jpeg"
-    name  : "Bruno"
+    name  : "Bruno Almeida"
     company_position: "Produção Audiovisual"
     quote : > 
             "Comunicador Social pela UNESP de Bauru, atua como Coordenador de Produção e Diretor criativo na Síntese Filmes. Hoje, dedica maior parte de suas produções à criação de filmes documentários que abordam questões sociais e,em especial, na área da saúde." 
 
   - thumb : "images/testimonial/julino.jpeg"
     name  : "Dr. Julino Rodrigues Soares"
-    company_position: "Pesquisa"
+    company_position: "Pesquisador"
     quote : > 
             "Pesquisador Doutor Colaborador no Programa de Pós-graduação em Políticas Públicas da Universidade Federal do ABC Pós-doutorando pela Faculdade de Saúde Pública da USP Pesquisador Associado - Centro de Estudos e Pesquisas de Direito Sanitário da USP" 
 

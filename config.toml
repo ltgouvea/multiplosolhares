@@ -19,6 +19,10 @@ summarylength = 25
     name    = "Artigos"
     url     = "artigos"
     weight  = 3
+  [[menu.nav]]
+    name    = "Assistir"
+    url     = "assistir"
+    weight  = 4
   # [[menu.nav]]
   #   name    = "Blog"
   #   url     = "blog"
@@ -60,15 +64,20 @@ summarylength = 25
 
   [params.artigos]
     enable    = true
-    title     = "ARTIGOS - DRA. ANA CANZONIEIRI"
-    subtitle  = "Dra. Ana Canzonieiri é Psicóloga e está auxiliando na confecção do projeto. É doutora em psicologia comportamental e elaborou pesquisas sobre as áreas da saude e a COVID durante o período da pandemia, além de um livro sobre a historia da Esclerose Múltipla."
+    title     = "ARTIGOS - ESCLEROSE E PANDEMIA"
+    subtitle  = ""
+
+  [params.assistir]
+    enable    = true
+    title     = "ASSISTA O DOCUMENTÁRIO"
+    subtitle  = ""
 
   [params.call_to_action]
     enable              = true
     background_image    = "images/backgrounds/cta-background.jpg"
     title               = "APOIE O PROJETO"
     primary_button      = "Faça sua doação clicando aqui"
-    primary_button_url  = "contact"
+    primary_button_url  = "https://apoia.se/projetomultiplosriscos"
 
   [params.footer]
     # Footer Contact Info

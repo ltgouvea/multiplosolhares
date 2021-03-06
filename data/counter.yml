@@ -1,14 +1,14 @@
 enable : true
 heading : "PESSOAS ENTREVISTADAS"
 counter_item: 
-  - title: "Pacientes Gerais"
-    number: "250"
+  - title: "Geral"
+    number: "35"
 
-  - title: "Pacientes Covid-19"
-    number: "100"
+  - title: "Brasil"
+    number: "15"
 
-  - title: "Homens"
-    number: "350"
+  - title: "Internacional"
+    number: "11"
 
-  - title: "Mulheres"
-    number: "775"
+  - title: "Profissionais"
+    number: "9"
