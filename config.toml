@@ -54,7 +54,7 @@ summarylength = 25
   # Banner Section
   [params.banner]
     enable                = true
-    background_image      = "images/backgrounds/default-background.jpeg"
+    background_image      = "images/backgrounds/bgbrain2.png"
     heading               = "Projeto Múltiplos Olhares"
     tagline               = ""
     primary_button        = "Conheça o nosso Projeto"
