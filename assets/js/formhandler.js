@@ -25,7 +25,7 @@ window.addEventListener("DOMContentLoaded", function() {
         'message': data.get('about-project'),
       };
 
-      window.open('mailto:projetomultiplosolhares@gmail.com?subject=Contato Via Website do Projeto&body='+formData.message);
+      window.open('mailto:multiplosolharesdocumentario@gmail.com?subject=Contato Via Website do Projeto&body='+formData.message);
 
       success();
     } catch (e) {
