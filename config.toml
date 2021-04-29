@@ -23,6 +23,10 @@ summarylength = 25
     name    = "Assistir"
     url     = "assistir"
     weight  = 4
+  [[menu.nav]]
+    name    = "Eventos"
+    url     = "eventos"
+    weight  = 5
   # [[menu.nav]]
   #   name    = "Blog"
   #   url     = "blog"
@@ -30,7 +34,7 @@ summarylength = 25
   [[menu.nav]]
     name    = "Contato"
     url     = "contact"
-    weight  = 5
+    weight  = 6
 
 # Site Params
 [params]
@@ -70,6 +74,11 @@ summarylength = 25
   [params.assistir]
     enable    = true
     title     = "ASSISTA O DOCUMENTÁRIO"
+    subtitle  = ""
+
+  [params.eventos]
+    enable    = true
+    title     = "PARTICIPAÇÕES EM EVENTOS"
     subtitle  = ""
 
   [params.call_to_action]

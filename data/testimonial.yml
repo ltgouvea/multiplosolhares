@@ -67,3 +67,21 @@ testimonial_item :
     company_position: "Neurologista"
     quote : > 
             "Nascida em São Paulo, graduou-se em Medicina, em 1987, pela Faculdade de Medicina da Universidade de Mogi das Cruzes. Pelo interesse e grande curiosidade do desempenho da mente humana e bem como da interação do sistema nervoso com o  meio, especializou-se em Neurologia Clínica, em 1990, pelo Hospital do Servidor Público Estadual. Buscou estudar a relação do trabalho e seus riscos à saúde, realizando pós-graduação Lato Sensu, em Medicina do Trabalho, pela Universidade São Francisco. Não satisfeita com a visão cartesiana e Galênica do ser humano e da medicina atual, buscou uma visão mais holística, através de estudos na Homeopatia e Medicina Tradicional Chinesa, Lato Sensu, pelo Centro de Estudo do Hospital do Servidor Público Municipal, Se Titulando especialista em Acupuntura posteriormente. Atuou com membro do corpo médico e científico da Associação Brasileira de Esclerose Múltipla-ABEM. Atualmente é Médica Neurologista, Sócia, Diretora Técnica da Holus Serviços Médicos LTDA; Médica Neurologista Assistente do Centro Neurológico e Reabilitação da Casa da Esperança de Santo André e do Centro Hospitalar do Município de Santo André." 
+
+  - thumb : "images/testimonial/felipe.jpg"
+    name  : "Felipe Santinelli"
+    company_position: "Mestre em educação física e professor"
+    quote : > 
+            "Bacharel em educação física (2018, UNESP-Bauru), Mestre em Ciências da Motricidade (2020, UNESP-Bauru), Membro do laboratório de Pesquisa em Movimento Humano (MOVI-LAB), Professor voluntário no Projeto de Extensão ATIVA Parkinson" 
+
+  - thumb : "images/testimonial/giulianna.jpeg"
+    name  : "Giulianna Ferrero"
+    company_position: "Fisioterapeuta"
+    quote : > 
+            "Fisioterapeuta formada pelo Centro Universitário São Camilo, Especializada em Fisioterapia Neurofuncional pela UNIFESP, e em Aprendizagem Motora pela USP. Mestranda em Ciências da Atividade Física pela USP. Fundadora da Balance Fisioterapia." 
+
+  - thumb : "images/testimonial/ivone.jpeg"
+    name  : "Ivone Regina Fernandes"
+    company_position: "Doutora em Ciências da Saúde"
+    quote : > 
+            "Graduação em enfermagem em 1984 pela Faculdade Adventista de Enfermagem (FAE), hoje UNASP; - Formação Pedagógica em Educação Profissional em Enfermagem. Universidade de São Paulo, USP, em 2003; - Mestrado (2005) e Doutorado (2008) em Ciências da Saúde pela Faculdade de Ciências Medicas da Santa Casa de São Paulo (FCMSCSP), com ênfase em Esclerose Multipla." 
