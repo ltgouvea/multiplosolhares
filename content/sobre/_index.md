@@ -1,5 +1,5 @@
 ---
-title: "About Us"
+title: "Sobre"
 date: 2018-07-12T18:19:33+06:00
 heading : "O filme \"Múltiplos Riscos\" é um longa-documental que se propõe a discutir sobre
 a incidência e problemáticas relacionadas à Esclerose Múltipla (EM), em situações de
