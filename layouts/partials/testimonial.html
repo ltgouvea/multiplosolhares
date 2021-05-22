@@ -23,6 +23,9 @@
               <div class="person">
                 <h5>{{ .name }}</h5>
                 <p>{{ .company_position }}</p>
+                {{ if .email }}
+                <a href="mailto:{{ .email }}">{{ .email }}</a>
+                {{ end }}
               </div>
             </div>
             <p class="site-testimonial-item-body">

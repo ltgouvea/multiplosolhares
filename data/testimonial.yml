@@ -3,25 +3,29 @@ title   : "EQUIPE"
 subtitle: "Conheça os colaboradores"
 testimonial_item :
   - thumb : "images/testimonial/ana_canzonieri.jpeg"
-    name  : "Ana"
+    name  : "Ana Maria Canzonieri"
+    email : "amcrrr@gmail.com"
     company_position: "Enfermeira/Psicóloga"
     quote : > 
             "Enfermeira e psicóloga com mestrado e doutorado em Ciências da Saúde pela UNIFESP. Em andamento o pós Doutorado no Programa de Pós-Doutorado da Escola de Artes, Ciências e Humanidades (EACH-USP), no Grupo de Pesquisa e Aplicações Tecnológicas em Reabilitação.  Desde 2008 atua no desenvolvimento de pesquisas e no atendimento psicológico clínico presencial e online a pacientes com esclerose múltipla." 
 
   - thumb : "images/testimonial/camila_zucareli.jpeg"
     name  : "Camila Zucareli"
+    email : "camila@nszjuridico.com.br"
     company_position: "Advogada"
     quote : > 
             "Advogada Empresarial Previdenciária e Trabalhista. Pós-Graduada em Direito Empresarial e Direito Previdenciário pela FMU e Escola Paulista de Direito. Atuou em indústria química e grandes escritórios, onde foi palestrante pela CIESP na área previdenciária. Fundadora do escritório NSZ Consórcio Jurídico, passou a prestar consultoria para outras empresas e associações. Atualmente presta assessoria jurídica para aposentadoria e questões relativas à esclerose múltipla e deficiência." 
 
   - thumb : "images/testimonial/newton_marchioni.jpeg"
     name  : "Newton Marchioni"
+    email: "newton@umideia.com.br"
     company_position: "Designer"
     quote : > 
             "Newton Marchioni Designer e fundador da Umideia Design Criativo , atua na criação  e gestão de marcas, projetos de identidade visual, peças promocionais, editoriais, serviços digitais e consultorias empresariais. Formado em Comunicação Visual pelo Centro Paula Souza, é Bacharel em Física pela PUCSP e Pós-Graduado em Análise de Sistemas pela FECAPSP." 
 
   - thumb : "images/testimonial/daniele_de_souza.jpeg"
     name  : "Daniele de Souza"
+    email: "sousa.btt@gmail.com"
     company_position: "Psicóloga"
     quote : > 
             "Psicóloga pela Universidade São Judas Tadeu. Após anos trabalhando na área de Engenharia de Telecomunicações, iniciou a graduação em psicologia, a priori atuando com pacientes com esclerose múltipla. Atualmente é Residente Multiprofissional no A.C. Camargo Cancer Center." 
@@ -40,18 +44,21 @@ testimonial_item :
 
   - thumb : "images/testimonial/julino.jpeg"
     name  : "Dr. Julino Rodrigues Soares"
+    email : "julino.rodrigues@gmail.com"
     company_position: "Pesquisador"
     quote : > 
             "Pesquisador Doutor Colaborador no Programa de Pós-graduação em Políticas Públicas da Universidade Federal do ABC Pós-doutorando pela Faculdade de Saúde Pública da USP Pesquisador Associado - Centro de Estudos e Pesquisas de Direito Sanitário da USP" 
 
   - thumb : "images/testimonial/valeria.jpeg"
     name  : "Valeria A. de S. Abuchain"
+    email  : "valabu26@gmail.com"
     company_position: "Pedagoga"
     quote : > 
             "Pedagoga, Pós Graduada em Tradução e Legendagem (EN-PT PT-EN) e Professora de Inglês. Outros Cursos: Certificados PROFECIENCY FISK, TOEFL Institucional e TEFL/TESOL pela International TEFL Teacher Training" 
 
   - thumb : "images/testimonial/isela_certa.jpg"
     name  : "Maria Isela García Fernández"
+    email : "iselagf@hotmail.com"
     company_position: "Psicóloga"
     quote : > 
             "Instagram: isela.g.f	Psicóloga clínica, Especialização em Psicossomática. Outros cursos: EMDR, Brainspotting, Eneagrama, Hipnoterapia Ericksoniana, Constelações Familiares etc., com foco em técnicas destinadas ao tratamento do trauma psicológico. Coautora do livro “Desvendando as crianças através do Eneagrama – Pais iguais, filhos diferentes”." 
@@ -85,3 +92,10 @@ testimonial_item :
     company_position: "Doutora em Ciências da Saúde"
     quote : > 
             "Graduação em enfermagem em 1984 pela Faculdade Adventista de Enfermagem (FAE), hoje UNASP; - Formação Pedagógica em Educação Profissional em Enfermagem. Universidade de São Paulo, USP, em 2003; - Mestrado (2005) e Doutorado (2008) em Ciências da Saúde pela Faculdade de Ciências Medicas da Santa Casa de São Paulo (FCMSCSP), com ênfase em Esclerose Multipla." 
+
+  - thumb : "images/testimonial/enf_carol.jpeg"
+    name  : "Ana Carolina Santana de Sena"
+    email  : "enf.ac.sena@gmail.com"
+    company_position: "Mestre em Ciências da Saúde"
+    quote : > 
+            "Graduação em enfermagem pelas Faculdades Integradas de Guarulhos, 2003. Especialização em Terapia Intensiva, Faculdades Metropolitanas Unidas, 2005 e Mestrado em Ciências da Saúde pela Faculdade de Ciências Médicas da Santa Casa de São Paulo / 2017 na Linha de Pesquisa: Alterações imunológicas, neuropsicológicas e clínicas na esclerose múltipla.  Voluntariado e Trabalho em Pesquisa Atendimento e orientação ao paciente com Esclerose múltipla em ambulatório especializado (CATEM – Centro de Atendimento e Tratamento de Esclerose Múltipla)" 

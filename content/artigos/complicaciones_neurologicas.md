@@ -1,5 +1,5 @@
 ---
-title: "Complicaciones Neurologicas por coronavirus y COVID-19"
+title: "Complicações neurológicas por coronavirus e COVID-19 (em espanhol)"
 date: 2019-12-23T20:56:42+06:00
 type: artigos
 image: "images/artigos/complicaciones.PNG"

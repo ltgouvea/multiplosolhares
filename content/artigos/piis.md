@@ -1,5 +1,5 @@
 ---
-title: "Multiple Sclerosis and Related Disorders (2)"
+title: "Esclerose múltipla e doenças relacionadas (2) - Em inglês"
 date: 2019-12-23T15:44:46+06:00
 type: artigos
 image: "images/artigos/PIIS2211034820302807.PNG"

@@ -5,6 +5,7 @@ type: eventos
 image: "images/eventos/bctrims.png"
 category: ["EVENTOS"]
 files: ["ppt/bctrims_case_report.ppt", "ppt/bctrims_understanding.ppt" ]
+project_images: ["images/eventos/case_report.png", "images/eventos/understanding.png" ]
 ---
 
 [PPT - CASE REPORT: PATIENT WITH MULTIPLE SCLEROSIS AND COVID-19​](/ppt/bctrims_case_report.ppt)

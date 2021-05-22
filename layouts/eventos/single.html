@@ -13,7 +13,7 @@
           </div>
           <div class="site-project-single-image">
             {{ range .Params.project_images }}
-            <img src="{{ . | absURL }}" alt="project image">
+            <img src="{{ . | absURL }}" style="cursor: pointer;" class="img-clickable" alt="project image">
             {{ end }}
           </div>
           {{ if .NextInSection }}
@@ -36,4 +36,16 @@
 
 {{ partial "call-to-action.html" . }}
 
+  <script type="text/javascript">
+    function makeImgClickable() {
+      const images = document.querySelectorAll(".img-clickable");
+
+      console.log(images);
+      images.forEach(img => img.addEventListener("click", function () {
+        window.open(this.getAttribute("src"));
+      }));
+    }
+
+    makeImgClickable();
+  </script>
 {{ end }}

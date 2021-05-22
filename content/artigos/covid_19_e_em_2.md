@@ -1,5 +1,5 @@
 ---
-title: "Disease-Modifying Therapies During the COVID-19 Outbreak: A Narrative Review of the International and National Recommendations"
+title: "Terapias modificadoras da doença durante o surto de COVID-19: uma revisão narrativa das recomendações internacionais e nacionais (em inglês)"
 date: 2019-12-23T15:44:46+06:00
 type: artigos
 image: "images/artigos/covid_19_em_2.PNG"
