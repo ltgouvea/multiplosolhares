@@ -1,5 +1,5 @@
 baseURL       = "/"
-languageCode  = "en-us"
+languageCode  = "pt-br"
 title         = "Projeto Múltiplos Olhares"
 theme         = "roxo"
 summarylength = 25
@@ -13,7 +13,7 @@ summarylength = 25
     weight  = 1
   [[menu.nav]]
     name    = "Sobre"
-    url     = "about"
+    url     = "sobre"
     weight  = 2
   [[menu.nav]]
     name    = "Artigos"
@@ -33,7 +33,7 @@ summarylength = 25
   #   weight  = 6
   [[menu.nav]]
     name    = "Contato"
-    url     = "contact"
+    url     = "contato"
     weight  = 6
 
 # Site Params
@@ -52,7 +52,7 @@ summarylength = 25
   [params.navAction]
     status  = true
     name    = "Entre em Contato"
-    url     = "contact"
+    url     = "contato"
   
 
   # Banner Section
@@ -62,9 +62,9 @@ summarylength = 25
     heading               = "Projeto Múltiplos Olhares"
     tagline               = ""
     primary_button        = "Conheça"
-    primary_button_url    = "about"
+    primary_button_url    = "sobre"
     secondary_button      = "Colabore"
-    secondary_button_url  = "https://novo.apoia.se/support/projetomultiplosriscos/new?step=new-support"
+    secondary_button_url  = "https://apoia.se/projetomultiplosriscos"
 
   [params.artigos]
     enable    = true
@@ -86,7 +86,7 @@ summarylength = 25
     background_image    = "images/backgrounds/cta-background.jpg"
     title               = "APOIE O PROJETO"
     primary_button      = "Faça sua doação clicando aqui"
-    primary_button_url  = "https://novo.apoia.se/support/projetomultiplosriscos/new?step=new-support"
+    primary_button_url  = "https://apoia.se/projetomultiplosriscos"
 
   [params.footer]
     # Footer Contact Info
@@ -109,7 +109,7 @@ summarylength = 25
           url  = "blog"
         [[params.footer.sitemap.link]]
           name = ""
-          url  = "contact"
+          url  = "contato"
       # Footer Social Media
       [params.footer.social]
         title   = "Patrocinador 2"
