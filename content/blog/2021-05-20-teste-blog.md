@@ -10,6 +10,8 @@ tinha uma *pedra*
 
 no meio do **caminho**
 
+![](/img/perdemo.jpg)
+
 no meio do *caminho*
 
 tinha uma **pedra**
