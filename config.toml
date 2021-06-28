@@ -34,7 +34,7 @@ summarylength = 25
   [[menu.nav]]
     name    = "Contato"
     url     = "contato"
-    weight  = 6
+    weight  = 7
 
 # Site Params
 [params]

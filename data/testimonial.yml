@@ -99,3 +99,10 @@ testimonial_item :
     company_position: "Mestre em Ciências da Saúde"
     quote : > 
             "Graduação em enfermagem pelas Faculdades Integradas de Guarulhos, 2003. Especialização em Terapia Intensiva, Faculdades Metropolitanas Unidas, 2005 e Mestrado em Ciências da Saúde pela Faculdade de Ciências Médicas da Santa Casa de São Paulo / 2017 na Linha de Pesquisa: Alterações imunológicas, neuropsicológicas e clínicas na esclerose múltipla.  Voluntariado e Trabalho em Pesquisa Atendimento e orientação ao paciente com Esclerose múltipla em ambulatório especializado (CATEM – Centro de Atendimento e Tratamento de Esclerose Múltipla)" 
+
+  - thumb : "images/testimonial/derek.jpg"
+    name  : "Derek Yoshida Teramatsu Araujo Gomes Duran"
+    email  : "dytagd94@hotmail.com"
+    company_position: "Profissional de Marketing"
+    quote : > 
+            "Formado academicamente como bacharel em Esporte (2017) e MBA (2019) em Marketing pela USP. Já atuou na direção e gestão de marketing da EEFUSP e atualmente trabalha como analista de marketing."
