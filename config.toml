@@ -27,10 +27,10 @@ summarylength = 25
     name    = "Eventos"
     url     = "eventos"
     weight  = 5
-  # [[menu.nav]]
-  #   name    = "Blog"
-  #   url     = "blog"
-  #   weight  = 6
+  [[menu.nav]]
+    name    = "Blog"
+    url     = "blog"
+    weight  = 6
   [[menu.nav]]
     name    = "Contato"
     url     = "contato"

@@ -5,20 +5,21 @@
     <div class="row justify-content-center">
       <div class="col-lg-8">
         <article class="site-blog-details">
-          <p><span>{{ .PublishDate.Format "January 2, 2006" }}</span> by <span>{{ .Params.author }}</span></p>
           <h2 class="blog-title">{{ .Title }}</h2>
-          <img class="feature-image" src="{{ .Params.feature_image | absURL }}" alt="blog-feature-image">
+          <p class="blog-author"> Por <span>{{ .Params.author }}</span></p>
+          <!-- <img class="feature-image" src="{{ .Params.feature_image | absURL }}" alt="blog-feature-image"> -->
           {{ .Content }}
         </article>
         <div class="site-blog-author-info">
-          <p><span>Sobre o(a) autor(a)</span> - <span> {{ .Params.author }} </span></p>
           <div class="author-content">
             <div class="author-image">
-              <img src="{{ .Params.author_image | absURL }}" alt="Foto de {{ .Params.author }}">
+              <img class="author-avatar" src="{{ .Params.author_image | absURL }}" alt="Foto de {{ .Params.author }}">
             </div>
-            <div class="author-bio">
-              {{ .Params.author_bio }}
+            <div>
+              <p class="author-name"><span>{{ .Params.author }}</span></p>
+              <p class="author-bio"><span>{{ .Params.author_bio }}</span></p>
             </div>
+
           </div>
         </div>
       </div>
