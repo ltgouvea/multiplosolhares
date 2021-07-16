@@ -106,3 +106,10 @@ testimonial_item :
     company_position: "Profissional de Marketing"
     quote : > 
             "Formado academicamente como bacharel em Esporte (2017) e MBA (2019) em Marketing pela USP. Já atuou na direção e gestão de marketing da EEFUSP e atualmente trabalha como analista de marketing."
+
+  - thumb : "images/testimonial/marly.jpeg"
+    name  : "Prof.a Dra. Marly de Bari Matos"
+    email  : "matos.marly@gmail.com"
+    company_position: "Pós-doutorado em Língua e Literatura Latina"
+    quote : > 
+            "FFLCH/USP 2011-2012 Pós-Doutorado em Língua e Literatura Latina  Centre National de la Recherche Scientifique, CNRS, Paris, França Bolsista do(a): Fundação de Amparo à Pesquisa do Estado de São Paulo 1999-2005 Doutorado em Letras (Letras Clássicas) Universidade de São Paulo, USP, Sao Paulo, Brasil Título: O estudo da pueritia nos séculos I e II d.C.  Bolsista do(a): Fundação de Amparo à Pesquisa do Estado de São Paulo 1994-1999 Mestrado em Letras (Letras Clássicas).  Universidade de São Paulo, USP, Sao Paulo, Brasil Título: As cartas de Cícero: exílo, o retorno e a adesão ao triunvirato 1989-1993 Graduação em Letras (Português-Latim).  Universidade de São Paulo, USP, Sao Paulo, Brasil Atuação Profissional 2003 – Atual - Professora Doutora em Língua e Literatura Latina na Faculdade de Filosofia, Letras e Ciências Humanas – USP – Regime: Dedicação Exclusiva Atividade Administrativa 2018-2019 – Membro da Comissão para a Redação do Projeto Acadêmico do Depto. de Letras Clássicas e Vernáculas – FFLCH/USP 2010-2011- Coordenador do Centro de Línguas – Letras 2008-2009 – Coordenação do Curso de Língua e Literatura Latina – DLCV - FFLCH/USP"
