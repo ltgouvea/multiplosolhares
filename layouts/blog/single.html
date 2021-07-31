@@ -6,10 +6,15 @@
       <div class="col-lg-8">
         <article class="site-blog-details">
           <h2 class="blog-title">{{ .Title }}</h2>
+          {{ if .Params.author }}
           <p class="blog-author"> Por <span>{{ .Params.author }}</span></p>
+          {{ end }}
           <!-- <img class="feature-image" src="{{ .Params.feature_image | absURL }}" alt="blog-feature-image"> -->
           {{ .Content }}
         </article>
+
+
+        {{ if .Params.author }}
         <div class="site-blog-author-info">
           <div class="author-content">
             <div class="author-image">
@@ -19,9 +24,10 @@
               <p class="author-name"><span>{{ .Params.author }}</span></p>
               <p class="author-bio"><span>{{ .Params.author_bio }}</span></p>
             </div>
-
           </div>
         </div>
+        {{ end }}
+
       </div>
     </div>
   </div>
