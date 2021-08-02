@@ -1,4 +1,16 @@
 <nav class="navbar navbar-expand-lg site-navigation">
+  <script type="text/javascript">
+    function toggleNavbar() {
+      const navbar = document.getElementById('sitenavbar');
+
+      if (navbar.classList.contains('show')) {
+        navbar.classList.remove('show');
+        return;
+      }
+
+      navbar.classList.add('show');
+    };
+  </script>
   <div class="container">
     <!-- <a class="navbar-brand" href="{{ .Site.BaseURL }}">
       LOGO
@@ -8,6 +20,7 @@
       type="button"
       data-toggle="collapse"
       data-target="#sitenavbar"
+      onclick="toggleNavbar()"
     >
       <span class="icon-bar"></span>
       <span class="icon-bar"></span>
