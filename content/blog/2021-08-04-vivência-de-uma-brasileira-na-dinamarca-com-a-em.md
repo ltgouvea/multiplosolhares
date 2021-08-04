@@ -1,10 +1,14 @@
 ---
 title: Vivência de uma brasileira na Dinamarca com a EM
-author: Rosana Rodrigues  36 anos, 6 anos de diagnóstico.  København , Dinamarca 🇩🇰
+author: Rosana Rodrigues
 date: 2021-08-04T22:26:29.681Z
 author_image: /img/rosana.png
 description: "1"
 ---
+Texto de Rosana Rodrigues,  36 anos, 6 anos de diagnóstico.
+
+ København , Dinamarca 🇩🇰
+
 Tive o diagnóstico de Esclerose Múltipla (EM) em maio de 2015, um ano de muitas mudanças na minha carreira e vida profissional. Vi meu mundo cair sobre minha cabeça não me imaginava com esse diagnóstico e muito menos tendo que refazer todos meus planejamentos de vida por conta disso. Como os surtos eram recorrentes, em conversas com os médicos me foi explicado que eu poderia engravidar primeiro antes de começar efetivamente o tratamento, já que a gestação me manteria sem os surtos. Dessa forma, engravidei, meu bebê nasceu e começou meu tratamento, logo após o nascimento dele. 
 
 Sou enfermeira, trabalhei em um hospital referência no Brasil o que me possibilitou um diagnóstico rápido,  preciso e o tratamento de primeira linha. Segui meu tratamento por 4 anos e sempre pensei que nunca poderia largar o meu trabalho porque pensava que não teria em lugar nenhum o que eu tenho aqui. Mas como tudo na vida tem suas surpresas veio a proposta de um projeto na Dinamarca para meu esposo. Era o desejo dele, mais deixou em minhas mãos a decisão de querer ir ou não. Lembro que naquela noite não dormi, no dia seguinte já entrei na internet e fui pesquisar o tratamento na EM na Europa. E pra nossa surpresa a Dinamarca tinha um centro de EM  que era referência no tratamento. Lembro que chorei muito e comecei a entender o que Deus preparava para minha vida. Procurei meu médico e falei da mudança. Começamos então a preparar minha partida do hospital e do país. Recebi meu tratamento para que pudesse ter o tempo de chegar e me habituar no novo país. Um mês morando aqui tive uma infeção e procurei o serviço médico, na avaliação ele me questionou doenças prévias. Falei que estava em tratamento de EM no Brasil e iria procurar o atendimento aqui na Dinamarca. Ele no dia não me falou nada, 15 dias depois já fui convocada pelo hospital que trata os pacientes de EM a comparecer para uma consulta. Eles partiram do princípio como se eu estivesse procurando o serviço para investigação do diagnóstico, não poderiam pegar apenas os exames do Brasil e seguir o tratamento. Tudo foi refeito e em seguida uma consulta médica para adequar o tratamento, que para nossa alegria, optaram por seguir o tratamento que já havia iniciado no Brasil. 
