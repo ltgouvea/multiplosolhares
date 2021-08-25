@@ -89,43 +89,12 @@ summarylength = 25
     primary_button_url  = "https://apoia.se/projetomultiplosriscos"
 
   [params.footer]
-    # Footer Contact Info
-    [params.footer.contactInfo]
-      title   = "Patrocinador 1"
-      address = ""
-      phone   = ""
-      email   = ""
-      # Footer Sitemap
-      [params.footer.sitemap]
-        title   = "Patrocinador 2"
-        [[params.footer.sitemap.link]]
-          name = ""
-          url  = ""
-        [[params.footer.sitemap.link]]
-          name = ""
-          url  = "artigos"
-        [[params.footer.sitemap.link]]
-          name = ""
-          url  = "blog"
-        [[params.footer.sitemap.link]]
-          name = ""
-          url  = "contato"
-      # Footer Social Media
-      [params.footer.social]
-        title   = "Patrocinador 2"
-        [[params.footer.social.link]]
-          name = ""
-          url  = "#"
-        [[params.footer.social.link]]
-          name = ""
-          url  = "#"
-        [[params.footer.social.link]]
-          name = ""
-          url  = "#"
-        [[params.footer.social.link]]
-          name = ""
-          url  = "#"
-      # Footer Service
-      [params.footer.service]
-        title       = "Patrocinador 3"
-        description = ""
+    [params.footer.patrocinador1]
+      title   = "APEMBS"
+      site = "http://www.apembs.org.br"
+    [params.footer.patrocinador2]
+      title   = "ALSAPEM"
+      site = "https://alsapem.org"
+    [params.footer.patrocinador3]
+      title   = "APPEM"
+      site = ""
