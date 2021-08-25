@@ -13,8 +13,8 @@ collections:
       preview: false
     fields:
       - { label: 'Titulo', name: 'title', widget: 'string' }
-      - { label: 'Autor', name: 'author', widget: 'string' }
+      - { label: 'Autor', name: 'author', widget: 'string', required: false }
+      - { label: 'Profissão ou ocupação', name: 'author_bio', widget: 'string', required: false }
       - { label: 'Data de Publicação', name: 'date', widget: 'datetime' }
-      - { label: 'Foto do autor', name: 'author_image', widget: 'image' }
-      - { label: 'Descrição', name: 'description', widget: 'string' }
+      - { label: 'Foto do autor', name: 'author_image', widget: 'image', required: false }
       - { label: 'Conteúdo', name: 'body', widget: 'markdown' }
