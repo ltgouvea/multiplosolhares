@@ -20,6 +20,9 @@ E o melhor de tudo é que você não precisa passar fome, muito menos seguir die
 Se você quer conhecer um pouco mais sobre os benefícios de uma dieta anti-inflamatória para a Esclerose Múltipla esta é a sua chance!
  
 Conheça mais sobre meu trabalho 
+
+[MEU CURRÍCULO - BAIXAR PDF](/artigospdf/cv_beatriz_atualizado_2021.pdf)
+
 -Guia Alimentar para Portadores de Esclerose Múltipla: 
 http://beatrizgiannichi.com.br/guiaalimentarEM
  
